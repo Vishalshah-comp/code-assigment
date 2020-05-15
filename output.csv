@@ -1,0 +1,12 @@
+Images1,Images2,Similar,Elapsed,Error Message
+image-2.jpg,image-1.png,0.05,0.07,
+image-2.jpg,image-3.jpg,,,Input images must have the same dimensions
+image-3.jpg,image-2.jpg,,,Input images must have the same dimensions
+images-1.jpg,image-1.jpg,,,images-1.jpg Invalid Image Path - No image found at the path
+image-1.jpg,image-1.jpg,,,image-1.jpg Invalid Image Path - No image found at the path
+image-2.jpg,image-1.jpg,,,image-1.jpg Invalid Image Path - No image found at the path
+image-1.jpg,image-2.jpg,,,image-1.jpg Invalid Image Path - No image found at the path
+image-5.jpg,image-4.jpg,0.76,0.01,
+images/a.jpg,images/b.gif,0.02,0.01,
+images/e.gif,images/f.gif,,,images/e.gif Invalid Image Path - No image found at the path
+images/c.png,images/d.png,0.00,0.11,
